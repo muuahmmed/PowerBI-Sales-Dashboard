@@ -12,10 +12,11 @@ I didn't just build charts; I built a **Decision-Support System**. Using advance
 ---
 
 ## 🖼️ Dashboard Preview
+*Visualizing the pulse of the business*
 
 <p align="center">
-  <img src="screenshots/Screenshot 2026-01-20 022155.png" width="45%" />
-  <img src="screenshots/Screenshot 2026-01-20 022215.png" width="45%" />
+  <img src="screenshots/Screenshot 2026-01-20 022155.png" width="48%" />
+  <img src="screenshots/Screenshot 2026-01-20 022215.png" width="48%" />
 </p>
 <p align="center">
   <img src="screenshots/Screenshot 2026-01-20 022229.png" width="90%" />
@@ -32,7 +33,7 @@ I didn't just build charts; I built a **Decision-Support System**. Using advance
 
 ---
 
-## 🛠️ The "Under the Hood" (Technical Workflow)
+## 🛠️ The Technical Workflow
 
 ### 1. Data Transformation (Power Query)
 * Cleaned and structured raw CSV files (FactSale, DimCity, DimCustomer, etc.).
@@ -40,12 +41,12 @@ I didn't just build charts; I built a **Decision-Support System**. Using advance
 * Created a dedicated **Calendar Table** for advanced time-intelligence.
 
 ### 2. Data Modeling
-I implemented a **Star Schema** to ensure high performance and scalability:
+Implemented a **Star Schema** to ensure high performance and scalability:
 * **Fact Table:** `FactSale`
 * **Dimension Tables:** `DimCustomer`, `DimCity`, `DimEmployee`, `DimStockItem`, and `DimDate`.
-* *Relationship:* One-to-Many relationships established to maintain data integrity.
+* **Relationship:** One-to-Many relationships established to maintain data integrity.
 
-### 3. DAX Calculations (The Magic)
+### 3. DAX Calculations
 Some of the key measures created:
 * **Total Profit:** `SUM(FactSale[Profit])`
 * **Profit Margin %:** `DIVIDE([Total Profit], [Total Sales], 0)`
@@ -53,18 +54,18 @@ Some of the key measures created:
 
 ---
 
-## 🎓 Learning Journey
-This project was inspired and guided by the **Data Analysis Pro** curriculum (Ahmed Abdel Baset). It helped me master:
-* The art of storytelling with data.
+## 🎓 Acknowledgement
+This project was inspired by the **Data Analysis Pro** curriculum by **Ahmed Abdel Baset**. It was a deep dive into:
 * Advanced DAX optimization.
-* Dashboard UI design for better user adoption.
+* Data storytelling and effective visualization.
+* Business-centric dashboard design.
 
 ---
 
 ## 📬 Connect with Me
 If you have any feedback or want to discuss Data Analytics, feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-magdy-b8a37a1a8/)
 
 ---
-*Created by Mohammed MAgdy*
+*Created by Mohammed Magdy*
