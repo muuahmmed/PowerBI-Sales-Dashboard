@@ -11,6 +11,18 @@ I didn't just build charts; I built a **Decision-Support System**. Using advance
 
 ---
 
+## 🖼️ Dashboard Preview
+
+<p align="center">
+  <img src="screenshots/Screenshot 2026-01-20 022155.png" width="45%" />
+  <img src="screenshots/Screenshot 2026-01-20 022215.png" width="45%" />
+</p>
+<p align="center">
+  <img src="screenshots/Screenshot 2026-01-20 022229.png" width="90%" />
+</p>
+
+---
+
 ## 🚀 Key Insights & Features
 * **Dynamic Sales Tracking:** Real-time visibility into Total Sales, Profit, and Quantity.
 * **Geospatial Analysis:** Mapping sales across different territories to identify high-growth regions.
@@ -41,16 +53,6 @@ Some of the key measures created:
 
 ---
 
-## 🖼️ Dashboard Preview
-
-| Sales Overview | Performance Analysis |
-|---|---|
-| ![Screenshot 1](https://github.com/muuahmmed/PowerBI-Sales-Dashboard/blob/main/Screenshot%202026-01-20%20022155.png?raw=true) | ![Screenshot 2](https://github.com/muuahmmed/PowerBI-Sales-Dashboard/blob/main/Screenshot%202026-01-20%20022215.png?raw=true) |
-
-> *Check the full dashboard by downloading the `.pbix` file in this repo.*
-
----
-
 ## 🎓 Learning Journey
 This project was inspired and guided by the **Data Analysis Pro** curriculum (Ahmed Abdel Baset). It helped me master:
 * The art of storytelling with data.
@@ -63,7 +65,6 @@ This project was inspired and guided by the **Data Analysis Pro** curriculum (Ah
 If you have any feedback or want to discuss Data Analytics, feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_HERE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
 
 ---
-*Created with by Mohammed Magdy*
+*Created by Mohammed MAgdy*
